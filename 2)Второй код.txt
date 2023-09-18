@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 World of Tanks ?! 	',:/
 
 <<<<<<< HEAD
@@ -8,6 +9,9 @@ World of Tanks ?! 	',:/
 
 o_O
 >>>>>>> refs/remotes/origin/master
+=======
+World of Tanks ?! 	',:/
+>>>>>>> parent of c5a9ad5 (Пятый push.)
 =======
 World of Tanks ?! 	',:/
 >>>>>>> parent of c5a9ad5 (Пятый push.)
